@@ -1,0 +1,15 @@
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\bin\Debug\Grafik Nesnesi İle Yazı Yazma.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\bin\Debug\Grafik Nesnesi İle Yazı Yazma.pdb
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\obj\x86\Debug\Grafik_Nesnesi_İle_Yazı_Yazma.Form1.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\obj\x86\Debug\Grafik_Nesnesi_İle_Yazı_Yazma.Properties.Resources.resources
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\obj\x86\Debug\Grafik Nesnesi İle Yazı Yazma.csproj.GenerateResource.Cache
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\obj\x86\Debug\Grafik Nesnesi İle Yazı Yazma.exe
+C:\Users\Murat Bilginer\Desktop\KBRMRT\5 C#\Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\obj\x86\Debug\Grafik Nesnesi İle Yazı Yazma.pdb
+F:\04 - Yazılım\04 - Form Projeleri\31 Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\obj\x86\Debug\Grafik Nesnesi İle Yazı Yazma.exe
+F:\04 - Yazılım\04 - Form Projeleri\31 Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\obj\x86\Debug\Grafik Nesnesi İle Yazı Yazma.pdb
+F:\04 - Yazılım\04 - Form Projeleri\31 Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\bin\Debug\Grafik Nesnesi İle Yazı Yazma.exe
+F:\04 - Yazılım\04 - Form Projeleri\31 Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\bin\Debug\Grafik Nesnesi İle Yazı Yazma.pdb
+F:\04 - Yazılım\04 - Form Projeleri\31 Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\obj\x86\Debug\Grafik Nesnesi İle Yazı Yazma.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\31 Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\obj\x86\Debug\Grafik_Nesnesi_İle_Yazı_Yazma.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\31 Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\obj\x86\Debug\Grafik_Nesnesi_İle_Yazı_Yazma.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\31 Grafik Nesnesi İle Yazı Yazma\Grafik Nesnesi İle Yazı Yazma\obj\x86\Debug\Grafik Nesnesi İle Yazı Yazma.csproj.GenerateResource.Cache
